@@ -1,0 +1,10 @@
+.HomeSection{
+    background-color: rgb(158, 164, 101);
+    width: 80%;
+    height: 100vh;
+}
+h1{
+    color: red;
+    width: 80%;
+    margin: auto;
+}

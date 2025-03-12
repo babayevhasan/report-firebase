@@ -1,0 +1,20 @@
+.left-bar {
+    width: 20%;
+    height: 100vh;
+    background-color: rgb(109, 137, 109);
+    text-align: center;
+}
+
+.left-bar a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 22px;
+}
+.left-bar li{
+    margin: 15px 0px;
+    padding: 5px;
+    transition: 0.5s;
+}
+.left-bar li:hover{
+background-color: rgb(181, 181, 181);
+}
